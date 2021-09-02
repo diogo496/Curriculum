@@ -1,0 +1,23 @@
+.AboutContainer{
+    z-index: 200;
+    position: absolute;
+    margin-top: 40%;
+    width: 100%;
+}
+
+.AboutContainer h3{
+    font-size: 4vw;
+    text-decoration: underline 0.3vw solid blue;
+}
+
+.AboutText{
+    text-align: justify;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.AboutText text{
+    color: black;
+    border: 0px;
+    font-size: 2vw;
+}

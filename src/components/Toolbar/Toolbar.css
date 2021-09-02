@@ -1,0 +1,26 @@
+.container{
+    position: relative;
+}
+
+.image {
+    position: absolute;
+    width: 100%;
+    margin-left: -50%;
+
+}
+
+.myName {
+    font-size: 5vw;
+    position: absolute;
+    color: white;
+    z-index: 100;
+    margin-left: -44%;
+    margin-top: 10%;
+    font-family: 'Dosis', sans-serif;    
+
+}
+
+
+
+
+
