@@ -1,0 +1,42 @@
+.ExperienceContainer{
+    z-index: 200;
+    position: absolute;
+    margin-top: 252%;
+    width: 100%;
+}
+
+.ExperienceContainer h3{
+    font-size: 26px;
+    text-decoration: underline 0.3vw solid blue;
+}
+
+.leftCard{
+    border: 1px solid grey;
+    width: 35vw;
+    margin-left: 5vw;
+    border-radius: 10px;
+}
+
+h4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+text{
+    text-align:left;
+}
+
+.rightCard{
+    border: 1px solid grey;
+    width: 35vw;
+    height: 10vh;
+    margin-left: 60vw;
+    border-radius: 10px;
+}

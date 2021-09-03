@@ -17,11 +17,9 @@
     {"port":"Competências", "eng":"Skills"},
     {"port":"Tecnologias e softwares", "eng":"Softwares and Technologies"},
     {"port":"Desenvolvimento Full Stack", "eng":"Fullstack Development"},
-    {"port":"Backend", "eng":"Backend"},
     {"port":"Node js(Express, Nest js)", "eng":"Node js(Express, Nest js)"},
     {"port":"Java Spring Boot", "eng":"Java Spring Boot"},
     {"port":"Flask (Python)", "eng":"Flask (Python)"},
-    {"port":"Frontend", "eng":"Frontend"},
     {"port":"Javascript (React), HTML, CSS", "eng":"Javascript (React), HTML, CSS"},
     {"port":"Python", "eng":"Python"},
     {"port":"C, C++", "eng":"C, C++"},
@@ -31,7 +29,25 @@
     {"port":"NoSQL (MongoDB, Firebase)", "eng":"NoSQL (MongoDB, Firebase)"},
     {"port":"Kubernetes, Docker & Jenkins", "eng":"Kubernetes, Docker & Jenkins"},
     {"port":"Git, Confluence & Jira", "eng":"Git, Confluence & Jira"},
-    {"port":"PSS/E (Siemens)","eng":"PSS/E (Siemens)"}
+    {"port":"PSS/E (Siemens)","eng":"PSS/E (Siemens)"},
+    {"port":"Pessoais", "eng":"Personal"},
+    {"port":"Trabalho em equipa","eng":"Team work"},
+    {"port":"Flexibilidade e adaptação a novos desafios e ambientes", "eng":"Flexibility and adaption to new environments and challenges"},
+    {"port":"Capacidade de comunicação", "eng":"Communication skills"},
+    {"port":"Criatividade","eng":"Creativity"},
+    {"port":"Português", "eng":"Portuguese"},
+    {"port":"Inglês", "eng":"English"},
+    {"port":"Experiência profissional", "eng":"Professional experience"},
+    {"port":"NOS SGPS - NOS alfa TECH trainee (2020 Out)","eng":"NOS SGPS - NOS alfa TECH trainee (2020 Oct)"},
+    {"port":"- Desenvolvimento de software para automação e processos de negócio.","eng":"- Software development for automation and business processes."},
+    {"port":"- Tecnologias utilizadas: Node js (Nest js); MongoDB, Kubernetes, CI/CD, Postman.","eng":"- Technologies used: Node js (Nest js); MongoDB, Kubernetes, CI/CD, Postman."},
+    {"port":"- Desenvolvimento de plataforma para Data/IT governance.","eng":"- Development of Data/IT governance platform."},
+    {"port":"- Contacto com: microsserviços, webServices, APIs, message queueing, API management (Apigee).","eng":"- Contact with: Microsservices, webServices, APIs, message queueing, API management ( Apigee)."},
+    {"port":"- Análise/levantamento de requisitos;","eng":"- Functional analysis/requirements gathering."},
+    {"port":"- Arquitetura/desenho de solução e modelo de dados (MySQL);","eng":"- Architecture/solutions design & data model (MySQL)."}, 
+    {"port":"- Full stack developer: Java Spring Boot, React js.","eng":"- Full stack developer: Java Spring Boot, React js"}
+
+
 
 
 ]
