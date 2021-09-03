@@ -9,6 +9,29 @@
         "eng":"Basic information"},
     {"port":"Português",
         "eng":"Portuguese"},
-    {"port":"","eng":""},
-    {"port":"","eng":""}
+    {"port":"Interesses","eng":"Interests"},
+    {"port":"Desenvolvimento de software","eng":"Software development"},
+    {"port":"Arquitetura técnica","eng":"Technical Architecture"},
+    {"port":"Redes inteligentes","eng":"Smart grids"},
+    {"port":"Recursos renováveis", "eng":"Renewable resources"},
+    {"port":"Competências", "eng":"Skills"},
+    {"port":"Tecnologias e softwares", "eng":"Softwares and Technologies"},
+    {"port":"Desenvolvimento Full Stack", "eng":"Fullstack Development"},
+    {"port":"Backend", "eng":"Backend"},
+    {"port":"Node js(Express, Nest js)", "eng":"Node js(Express, Nest js)"},
+    {"port":"Java Spring Boot", "eng":"Java Spring Boot"},
+    {"port":"Flask (Python)", "eng":"Flask (Python)"},
+    {"port":"Frontend", "eng":"Frontend"},
+    {"port":"Javascript (React), HTML, CSS", "eng":"Javascript (React), HTML, CSS"},
+    {"port":"Python", "eng":"Python"},
+    {"port":"C, C++", "eng":"C, C++"},
+    {"port":"API Testing: Postman, Swagger", "eng":"API Testing: Postman, Swagger"},
+    {"port":"Message queueing: Pulsar, Kafka, Rabbit MQ", "eng":"Message queueing: Pulsar, Kafka, Rabbit MQ"},
+    {"port":"SQL", "eng":"SQL"},
+    {"port":"NoSQL (MongoDB, Firebase)", "eng":"NoSQL (MongoDB, Firebase)"},
+    {"port":"Kubernetes, Docker & Jenkins", "eng":"Kubernetes, Docker & Jenkins"},
+    {"port":"Git, Confluence & Jira", "eng":"Git, Confluence & Jira"},
+    {"port":"PSS/E (Siemens)","eng":"PSS/E (Siemens)"}
+
+
 ]

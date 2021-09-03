@@ -1,0 +1,16 @@
+.TechSkillsContainer{
+    z-index: 200;
+    position: absolute;
+    margin-top: 155%;
+    width: 100%;
+}
+
+.TechSkillsContainer h3{
+    font-size: 26px;
+    text-decoration: underline 0.3vw solid blue;
+}
+
+.TechSkillsContainer h4{
+    font-size: 22px;
+    text-decoration: underline 0.3vw solid black;
+}

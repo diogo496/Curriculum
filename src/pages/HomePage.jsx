@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { Toolbar, About, BasicInformation } from '../components';
+import { Toolbar, About, BasicInformation, Interests, TechSkills } from '../components';
 import portugueseFlag from '../assets/portugueseFlag.png';
 import englishFlag from '../assets/englishFlag.png';
 import './HomePage.css';
@@ -29,6 +29,8 @@ const HomePage = () => {
             <Toolbar language={language}></Toolbar>
             <About language={language}></About>
             <BasicInformation language={language}/>
+            <Interests language={language}/>
+            <TechSkills language={language}/>
             
         </div>
     )
