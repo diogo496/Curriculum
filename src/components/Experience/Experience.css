@@ -13,30 +13,38 @@
 .leftCard{
     border: 1px solid grey;
     width: 35vw;
+    height:fit-content;
     margin-left: 5vw;
     border-radius: 10px;
+    text-align: left;
+    padding: 5px 5px;
 }
 
 h4{
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 18px;
+    margin-left: 5px;
 }
 
 h5{
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 18px;
+    font-size: 16px;
+    margin-left: 5px;
 }
 
 text{
-    text-align:left;
+    margin-left: 5px;
+    text-align: justify;
 }
 
 .rightCard{
     border: 1px solid grey;
     width: 35vw;
-    height: 10vh;
+    height:fit-content;
     margin-left: 60vw;
     border-radius: 10px;
+    text-align: left;
+    padding: 5px 5px;
 }
