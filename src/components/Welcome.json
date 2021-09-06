@@ -17,7 +17,7 @@
     {"port":"Competências", "eng":"Skills"},
     {"port":"Tecnologias e softwares", "eng":"Softwares and Technologies"},
     {"port":"Desenvolvimento Full Stack", "eng":"Fullstack Development"},
-    {"port":"Node js(Express, Nest js)", "eng":"Node js(Express, Nest js)"},
+    {"port":"Node js (Express, Nest js)", "eng":"Node js(Express, Nest js)"},
     {"port":"Java Spring Boot", "eng":"Java Spring Boot"},
     {"port":"Flask (Python)", "eng":"Flask (Python)"},
     {"port":"Javascript (React), HTML, CSS", "eng":"Javascript (React), HTML, CSS"},
@@ -45,7 +45,7 @@
     {"port":"- Contacto com: microsserviços, webServices, APIs, message queueing, API management (Apigee).","eng":"- Contact with: Microsservices, webServices, APIs, message queueing, API management ( Apigee)."},
     {"port":"- Análise/levantamento de requisitos;","eng":"- Functional analysis/requirements gathering."},
     {"port":"- Arquitetura/desenho de solução e modelo de dados (MySQL);","eng":"- Architecture/solutions design & data model (MySQL)."}, 
-    {"port":"- Full stack developer: Java Spring Boot, React js.","eng":"- Full stack developer: Java Spring Boot, React js"},
+    {"port":"- Full stack developer: Java Spring Boot, React js.","eng":"- Fullstack developer: Java Spring Boot, React js"},
     {"port":"Explicador", "eng":"teacher"},
     {"port":"Explicador de matemática","eng":"Math teacher"},
     {"port":"- Acompanhamento e preparação de alunos de Ensino secundário de Matemática","eng":"- Math teacher to high school students preparing for exam"},
@@ -58,10 +58,9 @@
     {"port":"- Walkthrough pelas direções de Despacho e condução e Tecnologia e inovação.","eng":"- Walkthrough of the departments <Despacho e Condução> and Technology and Innovation."},
     {"port":"- Explicador de Matemática","eng":"Math teacher"},
     {"port":" 2016-2018 / 2020 Mar-Set","eng":" 2016-2018 / 2020 Mar - Sept"},
-    {"port":"- Acompanhamento e preparação de alunos de Ensino secundário de matemática.","eng":"Math teacher to high school students."}
+    {"port":"- Acompanhamento e preparação de alunos de Ensino secundário de matemática.","eng":"Math teacher to high school students."},
 
 
-
-
-
+    [{},{}],
+    [{},{}]
 ]

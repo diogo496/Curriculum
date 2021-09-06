@@ -1,13 +1,16 @@
 .TechSkillsContainer{
-    z-index: 200;
+    /* z-index: 200;
     position: absolute;
-    margin-top: 155%;
+    margin-top: 155%; */
     width: 100%;
 }
 
 .TechSkillsContainer h3{
-    font-size: 26px;
-    text-decoration: underline 0.3vw solid blue;
+  font-size: 22px;
+  color: black;
+  text-decoration: underline 0.3vw solid #4682b4;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .TechSkillsContainer h4{
@@ -15,10 +18,18 @@
     text-decoration: underline 0.3vw solid black;
 }
 
-.Skill{
+td{
+  font-size: 16px;
+} 
+.skillNameColumn{
+  width: 50%;
+}
+
+
+
+.Skill0{
     background-color: red;
     opacity: 60%;
-    width: 40vw;
     height: 10px;
     border-radius: 5px;
     animation-name: example;
@@ -27,190 +38,7 @@
 }
 
 @keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-
-.Skill1{
-    background-color: red;
-    opacity: 60%;
-    width: 40vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill2{
-    background-color: red;
-    opacity: 60%;
-    width: 20vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill3{
-    background-color: red;
-    opacity: 60%;
-    width: 20vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill4{
-    background-color: red;
-    opacity: 60%;
-    width: 60vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill5{
-    background-color: red;
-    opacity: 60%;
-    width: 20vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill6{
-    background-color: red;
-    opacity: 60%;
-    width: 20vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill7{
-    background-color: red;
-    opacity: 60%;
-    width: 50vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill8{
-    background-color: red;
-    opacity: 60%;
-    width: 15vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill9{
-    background-color: red;
-    opacity: 60%;
-    width: 25vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill10{
-    background-color: red;
-    opacity: 60%;
-    width: 35vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill11{
-    background-color: red;
-    opacity: 60%;
-    width: 25vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill12{
-    background-color: red;
-    opacity: 60%;
-    width: 25vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
-}
-.Skill13{
-    background-color: red;
-    opacity: 60%;
-    width: 20vw;
-    height: 10px;
-    border-radius: 5px;
-    animation-name: example;
-    animation-duration: 6s;
-    animation-iteration-count: 1;
-}
-
-@keyframes example {
-  0%   {background-color:red; width: 2vw; height: 10px; opacity: 60%;}
+  0%   {background-color:red; width: 5%; height: 10px; opacity: 60%;}
 }
 
 tr{
